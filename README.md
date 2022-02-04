@@ -38,9 +38,9 @@ quelques essais, dont les captures d'écran sont dans le répertoire captures:
 
 |valeur de n|valeur approchée de Pi| écart avec Pi en valeur absolue|temps d'exécution| fichier |
 |-----------|----------------------|--------------------------------|-----------------|---------|
-|100        |3.0399999999999996    |0.101592653                     |542 ms           |C3.jpeg  |
-|10000      |3.1568000000000005    |0.015207346                     |561 ms           |C2.jpeg  |
-|1000000    |3,1399480000000003    |0.001644653                     |654 ms           |C1.jpeg  |
+|100        |3.2800000000000002    |0.138407346                     |555 ms           |C1.jpeg  |
+|10000      |3.1251999999999982    |0.016392653                     |556 ms           |C2.jpeg  |
+|1000000    |3,1405839999999988    |0.001008653                     |611 ms           |C3.jpeg  |
 
 
 On répond ainsi à la dernière question:
