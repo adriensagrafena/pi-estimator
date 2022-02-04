@@ -8,9 +8,9 @@ spark-submit --master local --class Main yourpathtotheproject\pi-estimator\out\a
 
 
 
-![](captures\wincmd1.JPG)  
+![](captures/wincmd1.JPG)  
 
-![](captures\wincmd2.JPG)  
+![](captures/wincmd2.JPG)  
 
 
 ## 1. La fonction is_point_inside_the circle
@@ -52,8 +52,8 @@ la dernière ligne du tableau.
 
 ## Captures d'écran
 
-![](captures\C3.JPG)  
+![](captures/C3.JPG)  
 
-![](captures\C2.JPG)  
+![](captures/C2.JPG)  
 
-![](captures\C1.JPG)  
+![](captures/C1.JPG)  
