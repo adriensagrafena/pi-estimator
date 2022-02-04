@@ -18,7 +18,7 @@ spark-submit --master local --class Main yourpathtotheproject\pi-estimator\out\a
 Cette fonction sert à déterminer si un point de coordonnées (x;y), avec x et y compris entre 0 et 1, est situé à 
 l'intérieur du quart de disque supérieur droit de centre O et de rayon 1.
 
-## 2. La fonction pi_estimator_spark et
+## 2. La fonction pi_estimator_spark
 
 Cette fonction fabrique n points de coordonnées (x,y) aléatoires où x et y
 suivent la loi uniforme sur [0;1], puis détermine pour chacun s'il est ou non dans le quart de cercle susmentionné et
